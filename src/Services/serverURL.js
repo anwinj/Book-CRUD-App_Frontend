@@ -1,0 +1,1 @@
+export const SERVER_URL = "https://book-crud-app-server.onrender.com"
